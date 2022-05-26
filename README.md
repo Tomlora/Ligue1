@@ -9,9 +9,9 @@ Le but de projet est de :
 - Nettoyer la data et la rendre utilisable pour du machine learning.
 - Faire des prédictions en essayant de deviner qui va gagner, via scikit-learn :
 
--> OneHotEncoder/StandardScaler pour l'encodage et la standardisation. 
+-> __OneHotEncoder/StandardScaler__ pour l'encodage et la standardisation. 
 
--> RandomForest pour la prédiction.
+-> __RandomForest__ pour la prédiction.
 - Mesurer l'erreur
 
 
